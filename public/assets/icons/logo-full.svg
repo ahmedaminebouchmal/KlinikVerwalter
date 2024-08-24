@@ -1,0 +1,17 @@
+<svg width="300" height="80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rounded rectangle -->
+  <rect x="0" y="0" width="80" height="80" rx="15" ry="15" fill="#F0F0F0"/>
+
+  <!-- Heart Icon -->
+  <path d="M 40 25 
+           C 40 15, 55 15, 55 25
+           C 55 35, 40 50, 40 50
+           C 40 50, 25 35, 25 25
+           C 25 15, 40 15, 40 25 Z" 
+        fill="#43B581" stroke="white" stroke-width="4"/>
+
+  <!-- Text -->
+  <text x="90" y="50" font-family="Arial, sans-serif" font-size="30" fill="white" font-weight="400">
+    KlinikVerwalter
+  </text>
+</svg>
