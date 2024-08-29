@@ -1,5 +1,4 @@
-
-klinik-verwalter.vercel.app
+https://klinik-verwalter.vercel.app/
 
 bouchmalaabesp@gmail.com 
 
