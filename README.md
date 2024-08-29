@@ -2,6 +2,8 @@ https://klinik-verwalter.vercel.app/
 
 bouchmalaabesp@gmail.com 
 
+admin password :   082024
+
 
 - Next.js
 - Appwrite
