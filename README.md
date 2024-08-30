@@ -2,6 +2,8 @@ https://klinik-verwalter.vercel.app/
 
 bouchmalaabesp@gmail.com 
 
+"Twilio SMS notifications are currently disabled due to cost, but they can be enabled. If you want to test it, let me know, and I'll enable it from the Appwrite dashboard."
+
 admin password :   082024
 
 
